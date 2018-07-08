@@ -159,8 +159,7 @@ class Message extends Component<PropType> {
 ---
 ## 模块划分
 **前端**
-1.目录结构
-2.具体的一些模块
+![](assets/pics/前端模块划分.png);
 
 **服务端**
 1.目录结构
